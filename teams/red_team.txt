@@ -1,0 +1,9 @@
+Example Red Team
+# First line is the team name, you can use HTML.
+# Subsequent lines are findings - one line per finding. Syntax is:
+# score; finding; non-visible comment
+# Icons: 1000 - Diamond, 500 - Trophy, 200 - Star, 100 - Heart
+#
+# Example: 
+# 1500;SQLi in Web shop!; This is a comment.
+
